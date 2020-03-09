@@ -1,7 +1,7 @@
 h1 {
 	text-align: center;
 	font-family: Georgia;
-	margin-bottom: 30px;
+	margin-bottom: 35px;
 	color: darkviolet;
 }
 
@@ -17,7 +17,8 @@ body {
 
 p {
 	text-align: center;
-	font-family: Georgia;
+	font-size: x-large;
+	font-family: "Freestyle Script";
 	color: black;
 }
 
